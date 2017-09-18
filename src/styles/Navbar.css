@@ -1,0 +1,17 @@
+.navDiv{
+    margin : 0;
+    background-color : rgba(32, 167, 151, 0.68);
+    width : 100%;
+    padding : 15px;
+}
+
+.navDiv ul{
+    margin : 0;
+    list-style: none;
+}
+
+.navDiv li{
+    display : inline;
+    color : white;
+    margin-right : 20px;
+}

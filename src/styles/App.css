@@ -1,3 +1,9 @@
+body {
+    background-image: url('./circuit-wallpaper-1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 h1 {
-    color : green;
+    color : white;
 }

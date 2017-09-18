@@ -1,0 +1,21 @@
+#jumboBorder{
+    background-color : rgba(0, 0, 0, 0.6);
+    width : 75%;
+    border : 2px solid #1bbdc0;
+    padding : 4px;
+    margin : auto;
+    margin-top : 150px;
+    display : block;
+}
+
+.jumbo{
+    margin : auto;
+    width : 99%;
+    height : 95%;
+    border : 2px solid #1bbdc0;
+}
+
+.jumbo h1{
+    font-size: 48px;
+    text-align: center;
+}
