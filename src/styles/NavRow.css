@@ -1,0 +1,20 @@
+#rowDiv {
+    color : white;
+    width : 99%;
+    margin : auto;
+    margin-top : 50px;
+    margin-bottom: 60px;
+    /*border : 2px solid red;*/
+    text-align: center;
+}
+
+
+.rowBtn{
+    background-color: black;
+    width : 20%;
+    margin : 5px;
+    display : inline-block;
+    border : 2px solid #1bbdc0;
+    font-size: 20px;
+    box-shadow : 0px 0px 4px white;
+}

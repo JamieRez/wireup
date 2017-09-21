@@ -4,18 +4,61 @@
     border : 2px solid #1bbdc0;
     padding : 4px;
     margin : auto;
-    margin-top : 150px;
     display : block;
 }
 
 .jumbo{
     margin : auto;
-    width : 99%;
+    width : 99.5%;
     height : 95%;
     border : 2px solid #1bbdc0;
 }
 
-.jumbo h1{
+#title{
     font-size: 48px;
     text-align: center;
+}
+
+#subtitle{
+    text-align: center;
+    margin-left: 20px;
+    color : white;
+    font-size : 20px;
+}
+
+.priceContainer {
+    width : 90%;
+    margin : 0 auto;
+    text-align: center;
+}
+
+.priceBox{
+    background-color: rgba(0, 0, 0, 0.6);
+    color : white;
+    display: inline-block;
+    width : 30%;
+    margin : 10px;
+}
+
+#priceBoxRed{
+    border : 2px solid #ff0040;
+    box-shadow: 0px 0px 6px #ff0040;
+}
+
+#priceBoxRed:hover{
+    box-shadow: 0px 0px 6px 2px #ff0040;
+}
+
+#priceBoxGreen{
+    border : 2px solid #00ff38;
+    box-shadow: 0px 0px 6px #00ff38;
+}
+
+#priceBoxGreen:hover{
+    box-shadow: 0px 0px 6px 2px #00ff38;
+}
+
+.priceBox p{
+    margin-top: 175px;
+    font-size : 18px;
 }
